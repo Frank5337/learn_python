@@ -1,0 +1,490 @@
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+
+
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+Traceback (most recent call last):
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 39, in <module>
+    t = make_word_list1()
+  File "D:\work\PycharmProjects\learn_python\thinkpython\ch10\homework9.py", line 21, in make_word_list1
+    fin = open('words.txt')
+FileNotFoundError: [Errno 2] No such file or directory: 'words.txt'
+

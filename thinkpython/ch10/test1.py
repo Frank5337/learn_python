@@ -7,3 +7,6 @@ cheese = ['a', 'b', 'c']
 nums = [42, 123]
 
 print(cheese, nums)
+
+aa = cheese[::-1]
+print(aa)
